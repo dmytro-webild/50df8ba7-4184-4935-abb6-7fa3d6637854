@@ -60,7 +60,7 @@ export default function LandingPage() {
 
   <div id="hero" data-section="hero">
       <HeroCarouselLogo
-      logoText="Blueline Solutions"
+      logoText="HOLOCRAFTLABS "
       description="Revolutionizing businesses with innovative software solutions and driving digital transformation for sustainable growth."
       buttons={[
         {
@@ -72,7 +72,7 @@ export default function LandingPage() {
         {
           imageSrc: "http://img.b2bpic.net/free-photo/blue-abstract-shape-glowing-grainy-textured_474888-8017.jpg",          imageAlt: "Modern software dashboard"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-technology-background-connecting-dots-digital-network-design_53876-160195.jpg",          imageAlt: "Dynamic server room"},
+          imageSrc: "https://img.b2bpic.net/free-photo/engineer-wearing-vr-headset-data-center-installing-software_482257-116005.jpg?id=414767117",          imageAlt: "Dynamic server room"},
         {
           imageSrc: "http://img.b2bpic.net/free-photo/people-analyzing-checking-finance-graphs-office_23-2150377179.jpg",          imageAlt: "Team of software developers collaborating"},
         {
