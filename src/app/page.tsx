@@ -74,13 +74,13 @@ export default function LandingPage() {
         {
           imageSrc: "https://img.b2bpic.net/free-photo/engineer-wearing-vr-headset-data-center-installing-software_482257-116005.jpg?id=414767117",          imageAlt: "Dynamic server room"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/people-analyzing-checking-finance-graphs-office_23-2150377179.jpg",          imageAlt: "Team of software developers collaborating"},
+          imageSrc: "https://img.b2bpic.net/premium-photo/attractive-businesswoman-with-vr-glasses-pointing-abstract-creative-coding-programming-hologram-blurry-interior-background-science-technology-software-concept-double-exposure_670147-19953.jpg?id=35289128",          imageAlt: "Team of software developers collaborating"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/company-analyst-studying-business-activity-progress-achieving-strategic-goals_482257-91239.jpg",          imageAlt: "Tablet displaying a mobile application"},
+          imageSrc: "https://img.b2bpic.net/premium-photo/hand-man-who-can-control-information-technology-he-can-hold-world-business-success-internet-technology-concept_112554-883.jpg?id=26459936",          imageAlt: "Tablet displaying a mobile application"},
         {
           imageSrc: "http://img.b2bpic.net/free-photo/dropbox-icon-line-icon-connection-circuit-board_1379-896.jpg",          imageAlt: "Abstract data flow visualization"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-dubai-landscape_23-2151339747.jpg",          imageAlt: "Overhead view of a smart city"},
+          imageSrc: "https://img.b2bpic.net/free-photo/futuristic-smart-city-with-5g-global-network-technology_53876-98438.jpg?id=13463111",          imageAlt: "Overhead view of a smart city"},
       ]}
       autoplayDelay={4000}
       showDimOverlay={true}
