@@ -284,9 +284,9 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      videoSrc="http://img.b2bpic.net/free-photo/optical-fiber-background_23-2149301535.jpg"
+      videoSrc="https://img.b2bpic.net/free-photo/modern-business-building-scenery-touching-sky_181624-5785.jpg?id=8753338"
       videoAriaLabel="Abstract digital network animation"
-      logoSrc="http://img.b2bpic.net/free-photo/mobility-creativity-concept-smartphone-screen_53876-94842.jpg"
+      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLIrCg6b9RWobHQYPdVhadyGxG/uploaded-1780310908027-2fp4j6vw.png"
       logoAlt="Blueline Solutions Logo"
       logoText="Blueline Solutions"
       columns={[
