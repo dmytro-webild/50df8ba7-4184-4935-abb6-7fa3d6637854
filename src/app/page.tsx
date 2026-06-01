@@ -203,27 +203,28 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "t1",          name: "Thuy Nguyen Ba",          handle: "@ThuyNB_CEO",          testimonial: "Blueline Solutions Vinh not only delivers exceptional software but also fosters a dynamic and inspiring work environment. Their commitment to quality and innovation is truly commendable, and we've seen significant improvements.",          rating: 5,
+          id: "t1",          name: "Nhat Toan
+",          handle: "@NB_CEO",          testimonial: "Holocraft Labs not only delivers exceptional software but also fosters a dynamic and inspiring work environment. Their commitment to quality and innovation is truly commendable, and we've seen significant improvements.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-man-office-center_1303-19604.jpg",          imageAlt: "Thuy Nguyen Ba, CEO"},
         {
-          id: "t2",          name: "Minhchi Phanba",          handle: "@MinhchiP_CTO",          testimonial: "Blueline Solutions consistently delivers high-quality products with a team that is professional, friendly, and collaborative. They truly understand client needs and exceed expectations in every project.",          rating: 5,
+          id: "t2",          name: "Minhchi Phanba",          handle: "@MinhchiP_CTO",          testimonial: "Holocraft Labs consistently delivers high-quality products with a team that is professional, friendly, and collaborative. They truly understand client needs and exceed expectations in every project.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/smiling-senior-engineer-solar-panels-plant-reading-documentation_482257-120499.jpg",          imageAlt: "Minhchi Phanba, CTO"},
         {
-          id: "t3",          name: "Đức Dương",          handle: "@DucD_PM",          testimonial: "Choosing Blueline Solutions Vinh was one of our best decisions. Their team is dedicated, and the solutions provided are meticulously crafted and highly effective, driving real business value.",          rating: 5,
+          id: "t3",          name: "Đức Dương",          handle: "@DucD_PM",          testimonial: "Choosing Holocraft Labs was one of our best decisions. Their team is dedicated, and the solutions provided are meticulously crafted and highly effective, driving real business value.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/man-black-suit-using-tablet-smiles_23-2148401471.jpg",          imageAlt: "Đức Dương, Project Manager"},
         {
-          id: "t4",          name: "Sarah Johnson",          handle: "@SarahJ_Mkt",          testimonial: "The custom software developed by Blueline Solutions has significantly streamlined our marketing operations, giving us a powerful edge in a competitive market. Their expertise is unmatched.",          rating: 5,
+          id: "t4",          name: "Sarah Johnson",          handle: "@SarahJ_Mkt",          testimonial: "The custom software developed by Holocraft Labs has significantly streamlined our marketing operations, giving us a powerful edge in a competitive market. Their expertise is unmatched.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/pov-businessman-attending-videocall-meeting-office-using-online-videoconference-talk-consultant-about-financial-strategy-company-employee-chatting-remote-teleconference-close-up_482257-40929.jpg",          imageAlt: "Sarah Johnson, Marketing Director"},
         {
-          id: "t5",          name: "Michael Chen",          handle: "@MichaelC_Founder",          testimonial: "As a startup founder, I needed a reliable tech partner, and Blueline Solutions delivered beyond my expectations. Their agile approach and innovative solutions are truly exceptional.",          rating: 5,
+          id: "t5",          name: "Michael Chen",          handle: "@MichaelC_Founder",          testimonial: "As a startup founder, I needed a reliable tech partner, and Holocraft Labs delivered beyond my expectations. Their agile approach and innovative solutions are truly exceptional.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/smiling-successful-middle-aged-business-leader_1262-5690.jpg",          imageAlt: "Michael Chen, Founder"},
         {
-          id: "t6",          name: "Emily Rodriguez",          handle: "@EmilyR_IT",          testimonial: "Their IT consulting services were invaluable in optimizing our infrastructure. Blueline Solutions provided strategic insights and robust solutions that greatly improved our system performance.",          rating: 5,
+          id: "t6",          name: "Emily Rodriguez",          handle: "@EmilyR_IT",          testimonial: "Their IT consulting services were invaluable in optimizing our infrastructure. Holocraft Labs provided strategic insights and robust solutions that greatly improved our system performance.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/octogenarian-engineer-crypto-mining-farm-with-specialized-server-racks-using-blockchain-technology-fintech-expert-inspecting-asic-racks-solving-complex-computational-operations-data-center_482257-70453.jpg",          imageAlt: "Emily Rodriguez, IT Director"},
       ]}
       showRating={true}
       title="Trusted by Industry Leaders"
-      description="Hear directly from our clients about how Blueline Solutions Vinh has transformed their operations and helped them achieve their strategic goals."
+      description="Hear directly from our clients about how Holocraft Labs has transformed their operations and helped them achieve their strategic goals."
       tag="Client Success Stories"
     />
   </div>
@@ -327,7 +328,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      copyrightText="© 2024 Blueline Solutions. All rights reserved."
+      copyrightText="© 2026 Holocraft Labs. All rights reserved."
     />
   </div>
       </ReactLenis>
