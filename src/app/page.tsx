@@ -473,7 +473,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      videoSrc="http://img.b2bpic.net/free-photo/optical-fiber-background_23-2149301535.jpg"
+      videoSrc="http://img.b2bpic.net/free-photo/optical-fiber-background_23-2149301535.jpg?_wi=1"
       videoAriaLabel="Abstract digital network animation"
       logoSrc="http://img.b2bpic.net/free-photo/mobility-creativity-concept-smartphone-screen_53876-94842.jpg"
       logoAlt="Blueline Solutions Logo"
@@ -544,7 +544,7 @@ export default function LandingPage() {
         },
       ]}
       copyrightText="© 2024 Blueline Solutions. All rights reserved."
-      imageSrc="http://img.b2bpic.net/free-photo/optical-fiber-background_23-2149301535.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/optical-fiber-background_23-2149301535.jpg?_wi=2"
       imageAlt="abstract digital network animation blue"
     />
   </div>
